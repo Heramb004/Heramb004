@@ -65,19 +65,19 @@ const Heramb: Developer = {
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,php,kotlin&theme=dark" alt="Programming Languages" />
 
 ### 🎨 **Frontend Technologies**
-<img src="https://skillicons.dev/icons?i=html,css,react,angular,vue,tailwind,bootstrap,sass&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,vue,tailwind,bootstrap&theme=dark" alt="Frontend" />
 
 ### ⚙️ **Backend & Database**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase,supabase,redis&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase&theme=dark" alt="Backend" />
 
 ### 📱 **Mobile Development**
-<img src="https://skillicons.dev/icons?i=react,flutter,android,dart,kotlin,swift&theme=dark" alt="Mobile" />
+<img src="https://skillicons.dev/icons?i=react,flutter,android,dart,kotlin&theme=dark" alt="Mobile" />
 
 ### 🛠️ **DevOps & Tools**
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,vscode,figma&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,aws,netlify,vscode,figma&theme=dark" alt="Tools" />
 
 ### 🤖 **AI/ML & Data Science**
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI/ML" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="AI/ML" />
 
 </div>
 
